@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=edisoncorSX.jar -DgroupId=org.edisoncor -DartifactId=edisoncorSX -Dversion=1.0 -Dpackaging=jar
